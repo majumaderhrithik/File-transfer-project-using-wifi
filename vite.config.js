@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: './',
+  base: '/File-transfer-project-using-wifi/',
   build: {
     outDir: 'dist',
     emptyOutDir: true,
